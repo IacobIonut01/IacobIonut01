@@ -2,7 +2,7 @@ Hi 👋, I'm Iacob Ionuț
 
 A passionate student and UI/UX Android Developer from Romania
 
-- 🔭 I’m currently working on **DotOS**, **Yttrium**
+- 🔭 I’m currently working on **DotOS**, **Naika-DAO**
 
 - 🌱 I’m currently learning **Jetpack Compose, Databinding, UWP Development**
 
