@@ -4,7 +4,7 @@ A passionate student and UI/UX Android Developer from Romania
 
 - 🔭 I’m currently working on **Gallery (Compose)**, **DotOS**
 
-- 🌱 I’m currently learning **Jetpack Compose, Databinding, UWP Development**
+- 🌱 I’m currently learning **Jetpack Compose, Retrofit, Room, Coroutines etc**
 
 - 💬 Ask me about **Kotlin, Android SystemUI, Jetpack Compose** also about **Java,C++, C#**
 
