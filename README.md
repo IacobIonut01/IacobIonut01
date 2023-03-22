@@ -2,11 +2,11 @@ Hi 👋, I'm Iacob Ionuț
 
 A passionate student and UI/UX Android Developer from Romania
 
-- 🔭 I’m currently working on **DotOS**, **Naika-DAO**
+- 🔭 I’m currently working on **Gallery (Compose)**, **DotOS**
 
 - 🌱 I’m currently learning **Jetpack Compose, Databinding, UWP Development**
 
-- 💬 Ask me about **Kotlin, Android SystemUI, UWP Apps** also about **Java, Kotlin, C#**
+- 💬 Ask me about **Kotlin, Android SystemUI, Jetpack Compose** also about **Java,C++, C#**
 
 - 📫 How to reach me **paulionut2003@gmail.com**
 
