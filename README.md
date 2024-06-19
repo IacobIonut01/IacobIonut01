@@ -1,18 +1,20 @@
 Hi 👋, I'm Iacob Ionuț
 
-A passionate student and UI/UX Android Developer from Romania
+A passionate student and Mobile Software Engineer from Romania
 
-- 🔭 I’m currently working on **Gallery (Compose)**, **DotOS**
+- 🔭 I’m currently working on **Gallery (Compose)**
 
-- 🌱 I’m currently learning **Jetpack Compose, Retrofit, Room, Coroutines etc**
+- 🌱 I’m currently learning **Kotlin and Compose Multiplatform**
 
-- 💬 Ask me about **Kotlin, Android SystemUI, Jetpack Compose** also about **Java,C++, C#**
+- 💬 Ask me about **Java, Kotlin, Jetpack Compose**
 
 - 📫 How to reach me **paulionut2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iacobionut0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iacobionut0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iacobionut01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://t.me/iacobionut01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
