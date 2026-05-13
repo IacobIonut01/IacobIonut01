@@ -2,9 +2,7 @@ Hi 👋, I'm Iacob Ionuț
 
 A passionate student and Mobile Software Engineer from Romania
 
-- 🔭 I’m currently working on **Gallery (Compose)**
-
-- 🌱 I’m currently learning **Kotlin and Compose Multiplatform**
+- 🔭 I’m currently working on **Gallery (Compose)** with **Kotlin and Compose Multiplatform**
 
 - 💬 Ask me about **Java, Kotlin, Jetpack Compose**
 
